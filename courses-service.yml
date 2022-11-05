@@ -11,14 +11,3 @@ spring:
   jpa:
     database-platform: org.hibernate.dialect.H2Dialect
     defer-datasource-initialization: true
-app:
-  name: course service for the school managament project..
-  api:
-    title: course service
-    version: 1.0.0
-    description: Rest api for the courses program
-    base-package: com.sam.microservices
-    contact-name: achrafcharif
-    contact-email: m.charif.achraf@gmail.com
-    swagger:
-      enable: true
