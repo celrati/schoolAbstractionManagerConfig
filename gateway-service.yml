@@ -12,3 +12,4 @@ spring:
           uri: lb://courses-service
           predicates: 
             - Path=/courses/**
+      
